@@ -12,7 +12,7 @@ import com.mysql.binlog.event.deserialization.EventDeserializer;
  * @version 1.0.0
  * @since 2015年7月16日 下午5:37:52
  */
-public class Test {
+public class MySQLBinlog {
 
 	public static void main(String[] args) throws Throwable {
 //		BinaryLogClient client = new BinaryLogClient("10.146.30.209", 3307, "dap", "meandpay123");
