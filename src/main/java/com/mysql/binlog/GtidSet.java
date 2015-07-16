@@ -31,8 +31,11 @@ import java.util.Map;
  * uuid: hhhhhhhh-hhhh-hhhh-hhhh-hhhhhhhhhhhh, h: [0-9|A-F]
  * interval: n[-n], (n >= 1)
  * </pre>
+ * 
+ * @author 刘飞 E-mail:liufei_it@126.com
  *
- * @author <a href="mailto:stanley.shyiko@gmail.com">Stanley Shyiko</a>
+ * @version 1.0.0
+ * @since 2015年7月16日 下午7:11:12
  */
 public class GtidSet {
 
